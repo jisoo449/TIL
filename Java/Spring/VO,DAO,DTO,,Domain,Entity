@@ -1,11 +1,17 @@
-###DAO
+<img width="646" alt="205111957-2c8f0f1c-554b-44aa-bc7e-c40afd1c90da" src="https://github.com/jisoo449/TIL/assets/48276691/1e63f748-0524-41eb-810b-31316b7c4a30">
 
+
+
+###DAO
+Data Access Object  
+DB에 접근하기 위해 사용한다.
 
 ###VO
 
 
-
 ###DTO
+Data Transfer Object  
+데이터 교환 시 사용하며, 게터와 세터만 가진다.  
 
 
 ###Domain
