@@ -32,6 +32,13 @@ def long_function_name(
 이외에도 다양한 종류의 표기법이 존재한다. 개중에서 가장 많이 쓰이는 컨벤션은 카멜, 스네이크 이 두 개 이다.  
 <br/><br/>
 
+### 파이썬의 명명규칙
+파이썬의 변수/API/메소드 등을 정의할 때는 아래에 정의된 규칙에 따라 정의해야 한다.
+- 영어(ex. <code>v</code>, <code>var</code>, <code>V</code>, <code>VAR</code>)
+- 언더바+영어(ex. <code>lower_case</code>, <code>LOWER_CASE</code>)
+- 카멜 케이스(ex. <code>CamelCase</code>)
+- 첫 글자만 소문자, 다음 시작 글자는 대문자(ex. <code>mixedCase</code>)
+
 
 ### 파이썬의 네이밍 컨벤션
 
