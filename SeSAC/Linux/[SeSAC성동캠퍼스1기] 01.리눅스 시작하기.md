@@ -58,26 +58,33 @@
 ## 5. 원격 서버 접속
 원격으로 서버를 접속하는 방법은 여러가지가 있다. 대표적인 방법은 푸티를 사용하는 것이나, 본문에서는 VS코드를 사용하여 원격 서버로 접속하는 방법을 알려줄 것이다. 
 1. VS코드의 좌측 바에는 Extension 아이콘이 있다. 해당 아이콘을 클릭하여 익스텐션 라이브러리로 들어간다.  
-![image](https://github.com/jisoo449/TIL/assets/48276691/a7ca479e-ffdc-4aed-9146-11497bce6fb2)
+![image](https://github.com/jisoo449/TIL/assets/48276691/a7ca479e-ffdc-4aed-9146-11497bce6fb2)  
 <br/>
-3. ssh를 입력하여 맨 위에 나오는 Remote-ssh를 설치한다.  
+
+2. ssh를 입력하여 맨 위에 나오는 Remote-ssh를 설치한다.  
 ![image](https://github.com/jisoo449/TIL/assets/48276691/89a76faf-a494-4ab2-b199-07031a1ee855)  
 <br/>
-5. 설치 이후 VScode의 좌측 하단에 생긴 파란 버튼을 클릭한다. 상단에 창이 생긴다. 이 창에서 Connect to Host... Remote-ssh 를 클릭한다.  
-![image](https://github.com/jisoo449/TIL/assets/48276691/4921d43f-1c6b-4fcd-834d-6ea0478067f0)
+
+3. 설치 이후 VScode의 좌측 하단에 생긴 파란 버튼을 클릭한다. 상단에 창이 생긴다. 이 창에서 Connect to Host... Remote-ssh 를 클릭한다.  
+![image](https://github.com/jisoo449/TIL/assets/48276691/4921d43f-1c6b-4fcd-834d-6ea0478067f0)  
 <br/>
-7. Add New SSH Host를 선택한다.
-![image](https://github.com/jisoo449/TIL/assets/48276691/1ef7d0d4-2113-418a-8c17-c7bb5d6b08ff)
+
+4. Add New SSH Host를 선택한다.  
+![image](https://github.com/jisoo449/TIL/assets/48276691/1ef7d0d4-2113-418a-8c17-c7bb5d6b08ff)  
 <br/>
-9. 계정명@IP 를 입력한다.  
-![image](https://github.com/jisoo449/TIL/assets/48276691/e9d0d368-4554-4e9e-9917-f6a8c89a9735)
+
+5. 계정명@IP 를 입력한다.  
+![image](https://github.com/jisoo449/TIL/assets/48276691/e9d0d368-4554-4e9e-9917-f6a8c89a9735)  
 <br/>
-11. 맨 상단의 버튼을 클릭한다.
-![image](https://github.com/jisoo449/TIL/assets/48276691/8e3cc008-9454-403f-8b81-f45cddec5302)
+
+6. 맨 상단의 버튼을 클릭한다.  
+![image](https://github.com/jisoo449/TIL/assets/48276691/8e3cc008-9454-403f-8b81-f45cddec5302)  
 <br/>
-13. config파일을 열어 port번호와 Host명을 수정해준다.  
+
+7. config파일을 열어 port번호와 Host명을 수정해준다.    
 ![image](https://github.com/jisoo449/TIL/assets/48276691/175e9dd9-8863-4841-a747-4321024ba2f3)
 <br/>
-15. 이후 다시 좌측 하단에 있는 파란 버튼을 누른 뒤 Connect to Host -> 추가한 ip주소 를 클릭하면 외부 서버 접속이 완료된다.
+
+8. 이후 다시 좌측 하단에 있는 파란 버튼을 누른 뒤 Connect to Host -> 추가한 ip주소 를 클릭하면 외부 서버 접속이 완료된다.
 <br/>
 만약 실행이 되지 않는다면 .ssh 디렉토리 안의 known_hosts파일을 삭제하면 될 것이다. 
