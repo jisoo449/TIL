@@ -24,5 +24,12 @@
 두 번째 방법은 MS store에서 우분투를 설치하는 방법이다.  
 하지만 MS store에서 설치하는 우분투는 단순히 윈도우에서 우분투를 더 쉽게 사용할 수 있도록 하는 하위 시스템일 뿐이지, 윈도우 운영체제를 우분투로 바꾸어 주는 것은 아니다.  
 따라서 가상 컴퓨터에 우분투를 운영체제로 설치하기 위해서는 우분투 홈페이지에 올라와 있는 iso를 설치해야 한다.  
-1. [우분투 홈페이지에](https://ubuntu.com/download)에 접속하여 Download Ubuntu Desktop이라고 적힌 녹색 버튼을 누른 후, 다음 페이지에서 Download [우분투 버전] 이라고 적힌 녹색 버튼을 누르면 자동으로 우분투 iso파일 설치가 시작된다. 만약 다른 버전을 설치하고 싶다면 [우분투 릴리즈 버전](https://releases.ubuntu.com/23.10/)들을 모아둔 페이지에서 설치한다.
-2. 
+<br/>
+방법 1. [우분투 홈페이지에](https://ubuntu.com/download)에 접속하여 Download Ubuntu Desktop이라고 적힌 녹색 버튼을 누른 후, 다음 페이지에서 Download [우분투 버전] 이라고 적힌 녹색 버튼을 누르면 자동으로 우분투 iso파일 설치가 시작된다.
+![image](https://github.com/jisoo449/TIL/assets/48276691/73271a76-1f80-4dfb-b789-c570f3ad70da)
+![image](https://github.com/jisoo449/TIL/assets/48276691/4535a23f-d8f6-4d67-b6f3-1762149188d3)
+<br/><br/>
+방법 2. [우분투 릴리즈 버전](https://releases.ubuntu.com/23.10/)들을 모아둔 페이지에서 원하는 버전을 선택 후 desktop버전 iso파일을 설치한다.
+ ![image](https://github.com/jisoo449/TIL/assets/48276691/bf79ec43-7880-4bc1-920e-07c8993ce7ee)
+![image](https://github.com/jisoo449/TIL/assets/48276691/36ceb909-bd1b-4938-aa5f-6786d6ae140e)
+<br/><br/><br/>
